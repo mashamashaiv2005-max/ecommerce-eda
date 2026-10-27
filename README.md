@@ -29,7 +29,6 @@
 ## Структура репозитория
 - `ecommerce.csv` — исходный датасет
 - `eda_ecommerce.ipynb` — код и графики
-- `report` — оформленный отчёт
 
 ## Как запустить
 Нужны библиотеки: `pandas`, `matplotlib`, `seaborn`.
